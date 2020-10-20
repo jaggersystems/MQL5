@@ -6,7 +6,7 @@
        {
            "label": "Compile-Project-X",
            "type": "shell",
-           "command": "C:\\Users\\Stefan\\AppData\\Roaming\\MetaQuotes\\Terminal\\FB9A56D617EDDDFE29EE54EBEFFE96C1\\MQL5\\Compile-MQL.ps1  C:\\Users\\Stefan\\AppData\\Roaming\\MetaQuotes\\Terminal\\FB9A56D617EDDDFE29EE54EBEFFE96C1\\MQL5\\Experts\\ProjectX\\ProjectX.mq5",
+           "command": "C:\\Users\\Stefan\\AppData\\Roaming\\MetaQuotes\\Terminal\\FB9A56D617EDDDFE29EE54EBEFFE96C1\\MQL5\\Compile-MQL.ps1  C:\\Users\\Stefan\\AppData\\Roaming\\MetaQuotes\\Terminal\\FB9A56D617EDDDFE29EE54EBEFFE96C1\\MQL5\\Experts\\my_first_ea.mq5",
            "presentation": {
                "echo": true,
                "reveal": "always",

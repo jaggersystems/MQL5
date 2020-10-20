@@ -19,7 +19,7 @@ if ($FileToCompile.Contains(" ")) {
 Get-Process -Name terminal64 -ErrorAction SilentlyContinue | Where-Object {$_.Id -gt 0} | Stop-Process
 
 #fires up the Metaeditor compiler...
-& "C:\Program Files\MetaTrader 5 Terminal\metaeditor64.exe" /compile:${FileToCompile} /log:"`"$LogFile`"" /inc:"C:\Users\Stefan\AppData\Roaming\MetaQuotes\Terminal\FB9A56D617EDDDFE29EE54EBEFFE96C1\MQL5\Experts" | Out-Null
+& "C:\Program Files\MetaTrader 5 Terminal\metaeditor64.exe" /compile:${FileToCompile} /log:"`"$LogFile`"" /inc:"C:\Users\Stefan\AppData\Roaming\MetaQuotes\Terminal\FB9A56D617EDDDFE29EE54EBEFFE96C1\MQL5" | Out-Null
 
 #& "y:\Tmp\MT5-64\metaeditor64.exe" /compile:${FileToCompile} /log:"`"$LogFile`"" /inc:"y:\Tmp\MT5-64\MQL5\" | Out-Null
 
