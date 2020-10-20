@@ -1,0 +1,1522 @@
+bases/alerts.dat
+bases/books.dat
+bases/indicators.dat
+bases/objects.dat
+bases/options.dat
+bases/strategy.dat
+bases/Chats/chats.dat
+bases/Chats/users.dat
+bases/Chats/Avatars/e2/e23ee8ff63265118bb5b33ee2a5934c685393a5fe2d1e7546f54961d58eb0090.png
+bases/Chats/Previews/a7/a7b0a047d4b72e062d4c4261732e7ae99ee95b560dab9dc07a789e34d64cd56b.jpg
+bases/Default/History/EURUSD/2018.hcc
+bases/Default/History/EURUSD/2020.hcc
+bases/Default/History/EURUSD/cache/H1.hc
+bases/Default/History/GBPUSD/2018.hcc
+bases/Default/History/GBPUSD/2020.hcc
+bases/Default/History/GBPUSD/cache/H1.hc
+bases/Default/History/USDCHF/2018.hcc
+bases/Default/History/USDCHF/2020.hcc
+bases/Default/History/USDCHF/cache/H1.hc
+bases/Default/History/USDJPY/2018.hcc
+bases/Default/History/USDJPY/2020.hcc
+bases/Default/History/USDJPY/cache/H1.hc
+bases/Default/Mail/1.welcome.arabic.welcome
+bases/Default/Mail/1.welcome.bulgarian.welcome
+bases/Default/Mail/1.welcome.chinese (simplified).welcome
+bases/Default/Mail/1.welcome.chinese (traditional).welcome
+bases/Default/Mail/1.welcome.czech.welcome
+bases/Default/Mail/1.welcome.default.welcome
+bases/Default/Mail/1.welcome.english.welcome
+bases/Default/Mail/1.welcome.french.welcome
+bases/Default/Mail/1.welcome.german.welcome
+bases/Default/Mail/1.welcome.greek.welcome
+bases/Default/Mail/1.welcome.hebrew.welcome
+bases/Default/Mail/1.welcome.hungarian.welcome
+bases/Default/Mail/1.welcome.indonesian.welcome
+bases/Default/Mail/1.welcome.italian.welcome
+bases/Default/Mail/1.welcome.japanese.welcome
+bases/Default/Mail/1.welcome.malay.welcome
+bases/Default/Mail/1.welcome.polish.welcome
+bases/Default/Mail/1.welcome.portuguese.welcome
+bases/Default/Mail/1.welcome.russian.welcome
+bases/Default/Mail/1.welcome.slovenian.welcome
+bases/Default/Mail/1.welcome.spanish.welcome
+bases/Default/Mail/1.welcome.tajik.welcome
+bases/Default/Mail/1.welcome.thai.welcome
+bases/Default/Mail/1.welcome.turkish.welcome
+bases/Default/Mail/1.welcome.uzbek.welcome
+bases/Default/Mail/1.welcome.vietnamese.welcome
+bases/Default/Mail/2.signals.arabic.welcome
+bases/Default/Mail/2.signals.bulgarian.welcome
+bases/Default/Mail/2.signals.chinese (simplified).welcome
+bases/Default/Mail/2.signals.chinese (traditional).welcome
+bases/Default/Mail/2.signals.czech.welcome
+bases/Default/Mail/2.signals.default.welcome
+bases/Default/Mail/2.signals.english.welcome
+bases/Default/Mail/2.signals.french.welcome
+bases/Default/Mail/2.signals.german.welcome
+bases/Default/Mail/2.signals.greek.welcome
+bases/Default/Mail/2.signals.hebrew.welcome
+bases/Default/Mail/2.signals.hungarian.welcome
+bases/Default/Mail/2.signals.indonesian.welcome
+bases/Default/Mail/2.signals.italian.welcome
+bases/Default/Mail/2.signals.japanese.welcome
+bases/Default/Mail/2.signals.malay.welcome
+bases/Default/Mail/2.signals.polish.welcome
+bases/Default/Mail/2.signals.portuguese.welcome
+bases/Default/Mail/2.signals.russian.welcome
+bases/Default/Mail/2.signals.slovenian.welcome
+bases/Default/Mail/2.signals.spanish.welcome
+bases/Default/Mail/2.signals.tajik.welcome
+bases/Default/Mail/2.signals.thai.welcome
+bases/Default/Mail/2.signals.turkish.welcome
+bases/Default/Mail/2.signals.uzbek.welcome
+bases/Default/Mail/2.signals.vietnamese.welcome
+bases/Default/Mail/3.market.arabic.welcome
+bases/Default/Mail/3.market.bulgarian.welcome
+bases/Default/Mail/3.market.chinese (simplified).welcome
+bases/Default/Mail/3.market.chinese (traditional).welcome
+bases/Default/Mail/3.market.czech.welcome
+bases/Default/Mail/3.market.default.welcome
+bases/Default/Mail/3.market.english.welcome
+bases/Default/Mail/3.market.french.welcome
+bases/Default/Mail/3.market.german.welcome
+bases/Default/Mail/3.market.greek.welcome
+bases/Default/Mail/3.market.hebrew.welcome
+bases/Default/Mail/3.market.hungarian.welcome
+bases/Default/Mail/3.market.indonesian.welcome
+bases/Default/Mail/3.market.italian.welcome
+bases/Default/Mail/3.market.japanese.welcome
+bases/Default/Mail/3.market.malay.welcome
+bases/Default/Mail/3.market.polish.welcome
+bases/Default/Mail/3.market.portuguese.welcome
+bases/Default/Mail/3.market.russian.welcome
+bases/Default/Mail/3.market.slovenian.welcome
+bases/Default/Mail/3.market.spanish.welcome
+bases/Default/Mail/3.market.tajik.welcome
+bases/Default/Mail/3.market.thai.welcome
+bases/Default/Mail/3.market.turkish.welcome
+bases/Default/Mail/3.market.uzbek.welcome
+bases/Default/Mail/3.market.vietnamese.welcome
+bases/Default/Mail/4.mobile.arabic.welcome
+bases/Default/Mail/4.mobile.bulgarian.welcome
+bases/Default/Mail/4.mobile.chinese (simplified).welcome
+bases/Default/Mail/4.mobile.chinese (traditional).welcome
+bases/Default/Mail/4.mobile.czech.welcome
+bases/Default/Mail/4.mobile.default.welcome
+bases/Default/Mail/4.mobile.english.welcome
+bases/Default/Mail/4.mobile.french.welcome
+bases/Default/Mail/4.mobile.german.welcome
+bases/Default/Mail/4.mobile.greek.welcome
+bases/Default/Mail/4.mobile.hebrew.welcome
+bases/Default/Mail/4.mobile.hungarian.welcome
+bases/Default/Mail/4.mobile.indonesian.welcome
+bases/Default/Mail/4.mobile.italian.welcome
+bases/Default/Mail/4.mobile.japanese.welcome
+bases/Default/Mail/4.mobile.malay.welcome
+bases/Default/Mail/4.mobile.polish.welcome
+bases/Default/Mail/4.mobile.portuguese.welcome
+bases/Default/Mail/4.mobile.russian.welcome
+bases/Default/Mail/4.mobile.slovenian.welcome
+bases/Default/Mail/4.mobile.spanish.welcome
+bases/Default/Mail/4.mobile.tajik.welcome
+bases/Default/Mail/4.mobile.thai.welcome
+bases/Default/Mail/4.mobile.turkish.welcome
+bases/Default/Mail/4.mobile.uzbek.welcome
+bases/Default/Mail/4.mobile.vietnamese.welcome
+bases/Default/Mail/5.freelance.arabic.welcome
+bases/Default/Mail/5.freelance.bulgarian.welcome
+bases/Default/Mail/5.freelance.chinese (simplified).welcome
+bases/Default/Mail/5.freelance.chinese (traditional).welcome
+bases/Default/Mail/5.freelance.czech.welcome
+bases/Default/Mail/5.freelance.default.welcome
+bases/Default/Mail/5.freelance.english.welcome
+bases/Default/Mail/5.freelance.french.welcome
+bases/Default/Mail/5.freelance.german.welcome
+bases/Default/Mail/5.freelance.greek.welcome
+bases/Default/Mail/5.freelance.hebrew.welcome
+bases/Default/Mail/5.freelance.hungarian.welcome
+bases/Default/Mail/5.freelance.indonesian.welcome
+bases/Default/Mail/5.freelance.italian.welcome
+bases/Default/Mail/5.freelance.japanese.welcome
+bases/Default/Mail/5.freelance.malay.welcome
+bases/Default/Mail/5.freelance.polish.welcome
+bases/Default/Mail/5.freelance.portuguese.welcome
+bases/Default/Mail/5.freelance.russian.welcome
+bases/Default/Mail/5.freelance.slovenian.welcome
+bases/Default/Mail/5.freelance.spanish.welcome
+bases/Default/Mail/5.freelance.tajik.welcome
+bases/Default/Mail/5.freelance.thai.welcome
+bases/Default/Mail/5.freelance.turkish.welcome
+bases/Default/Mail/5.freelance.uzbek.welcome
+bases/Default/Mail/5.freelance.vietnamese.welcome
+bases/Default/Mail/6.virtualhosting.arabic.welcome
+bases/Default/Mail/6.virtualhosting.bulgarian.welcome
+bases/Default/Mail/6.virtualhosting.chinese (simplified).welcome
+bases/Default/Mail/6.virtualhosting.chinese (traditional).welcome
+bases/Default/Mail/6.virtualhosting.czech.welcome
+bases/Default/Mail/6.virtualhosting.default.welcome
+bases/Default/Mail/6.virtualhosting.english.welcome
+bases/Default/Mail/6.virtualhosting.french.welcome
+bases/Default/Mail/6.virtualhosting.german.welcome
+bases/Default/Mail/6.virtualhosting.greek.welcome
+bases/Default/Mail/6.virtualhosting.hebrew.welcome
+bases/Default/Mail/6.virtualhosting.hungarian.welcome
+bases/Default/Mail/6.virtualhosting.indonesian.welcome
+bases/Default/Mail/6.virtualhosting.italian.welcome
+bases/Default/Mail/6.virtualhosting.japanese.welcome
+bases/Default/Mail/6.virtualhosting.malay.welcome
+bases/Default/Mail/6.virtualhosting.polish.welcome
+bases/Default/Mail/6.virtualhosting.portuguese.welcome
+bases/Default/Mail/6.virtualhosting.russian.welcome
+bases/Default/Mail/6.virtualhosting.slovenian.welcome
+bases/Default/Mail/6.virtualhosting.spanish.welcome
+bases/Default/Mail/6.virtualhosting.tajik.welcome
+bases/Default/Mail/6.virtualhosting.thai.welcome
+bases/Default/Mail/6.virtualhosting.turkish.welcome
+bases/Default/Mail/6.virtualhosting.uzbek.welcome
+bases/Default/Mail/6.virtualhosting.vietnamese.welcome
+bases/Default/Mail/mail-0.dat
+bases/Default/Symbols/selected-0.dat
+bases/Default/Symbols/spreads-0.dat
+bases/Default/Symbols/symbols-0.dat
+bases/Default/news/news.dat
+bases/Default/subscriptions/subscriptions-0.dat
+bases/FxPro-MT5/history/AUDCAD/1993.hcc
+bases/FxPro-MT5/history/AUDCAD/1994.hcc
+bases/FxPro-MT5/history/AUDCAD/1995.hcc
+bases/FxPro-MT5/history/AUDCAD/1996.hcc
+bases/FxPro-MT5/history/AUDCAD/1997.hcc
+bases/FxPro-MT5/history/AUDCAD/1998.hcc
+bases/FxPro-MT5/history/AUDCAD/1999.hcc
+bases/FxPro-MT5/history/AUDCAD/2000.hcc
+bases/FxPro-MT5/history/AUDCAD/2001.hcc
+bases/FxPro-MT5/history/AUDCAD/2002.hcc
+bases/FxPro-MT5/history/AUDCAD/2003.hcc
+bases/FxPro-MT5/history/AUDCAD/2004.hcc
+bases/FxPro-MT5/history/AUDCAD/2005.hcc
+bases/FxPro-MT5/history/AUDCAD/2006.hcc
+bases/FxPro-MT5/history/AUDCAD/2007.hcc
+bases/FxPro-MT5/history/AUDCAD/2008.hcc
+bases/FxPro-MT5/history/AUDCAD/2009.hcc
+bases/FxPro-MT5/history/AUDCAD/2010.hcc
+bases/FxPro-MT5/history/AUDCAD/2011.hcc
+bases/FxPro-MT5/history/AUDCAD/2012.hcc
+bases/FxPro-MT5/history/AUDCAD/2013.hcc
+bases/FxPro-MT5/history/AUDCAD/2014.hcc
+bases/FxPro-MT5/history/AUDCAD/2015.hcc
+bases/FxPro-MT5/history/AUDCAD/2016.hcc
+bases/FxPro-MT5/history/AUDCAD/2017.hcc
+bases/FxPro-MT5/history/AUDCAD/2018.hcc
+bases/FxPro-MT5/history/AUDCAD/2019.hcc
+bases/FxPro-MT5/history/AUDCAD/2020.hcc
+bases/FxPro-MT5/history/AUDCAD/cache/Daily.hc
+bases/FxPro-MT5/history/AUDCAD/cache/H1.hc
+bases/FxPro-MT5/history/AUDCAD/cache/M1.hc
+bases/FxPro-MT5/history/AUDCHF/1993.hcc
+bases/FxPro-MT5/history/AUDCHF/1994.hcc
+bases/FxPro-MT5/history/AUDCHF/1995.hcc
+bases/FxPro-MT5/history/AUDCHF/1996.hcc
+bases/FxPro-MT5/history/AUDCHF/1997.hcc
+bases/FxPro-MT5/history/AUDCHF/1998.hcc
+bases/FxPro-MT5/history/AUDCHF/1999.hcc
+bases/FxPro-MT5/history/AUDCHF/2000.hcc
+bases/FxPro-MT5/history/AUDCHF/2001.hcc
+bases/FxPro-MT5/history/AUDCHF/2002.hcc
+bases/FxPro-MT5/history/AUDCHF/2003.hcc
+bases/FxPro-MT5/history/AUDCHF/2004.hcc
+bases/FxPro-MT5/history/AUDCHF/2005.hcc
+bases/FxPro-MT5/history/AUDCHF/2006.hcc
+bases/FxPro-MT5/history/AUDCHF/2007.hcc
+bases/FxPro-MT5/history/AUDCHF/2008.hcc
+bases/FxPro-MT5/history/AUDCHF/2009.hcc
+bases/FxPro-MT5/history/AUDCHF/2010.hcc
+bases/FxPro-MT5/history/AUDCHF/2011.hcc
+bases/FxPro-MT5/history/AUDCHF/2012.hcc
+bases/FxPro-MT5/history/AUDCHF/2013.hcc
+bases/FxPro-MT5/history/AUDCHF/2014.hcc
+bases/FxPro-MT5/history/AUDCHF/2015.hcc
+bases/FxPro-MT5/history/AUDCHF/2016.hcc
+bases/FxPro-MT5/history/AUDCHF/2017.hcc
+bases/FxPro-MT5/history/AUDCHF/2018.hcc
+bases/FxPro-MT5/history/AUDCHF/2019.hcc
+bases/FxPro-MT5/history/AUDCHF/2020.hcc
+bases/FxPro-MT5/history/AUDCHF/cache/Daily.hc
+bases/FxPro-MT5/history/AUDCHF/cache/H1.hc
+bases/FxPro-MT5/history/AUDCHF/cache/M1.hc
+bases/FxPro-MT5/history/AUDJPY/1993.hcc
+bases/FxPro-MT5/history/AUDJPY/1994.hcc
+bases/FxPro-MT5/history/AUDJPY/1995.hcc
+bases/FxPro-MT5/history/AUDJPY/1996.hcc
+bases/FxPro-MT5/history/AUDJPY/1997.hcc
+bases/FxPro-MT5/history/AUDJPY/1998.hcc
+bases/FxPro-MT5/history/AUDJPY/1999.hcc
+bases/FxPro-MT5/history/AUDJPY/2000.hcc
+bases/FxPro-MT5/history/AUDJPY/2001.hcc
+bases/FxPro-MT5/history/AUDJPY/2002.hcc
+bases/FxPro-MT5/history/AUDJPY/2003.hcc
+bases/FxPro-MT5/history/AUDJPY/2004.hcc
+bases/FxPro-MT5/history/AUDJPY/2005.hcc
+bases/FxPro-MT5/history/AUDJPY/2006.hcc
+bases/FxPro-MT5/history/AUDJPY/2007.hcc
+bases/FxPro-MT5/history/AUDJPY/2008.hcc
+bases/FxPro-MT5/history/AUDJPY/2009.hcc
+bases/FxPro-MT5/history/AUDJPY/2010.hcc
+bases/FxPro-MT5/history/AUDJPY/2011.hcc
+bases/FxPro-MT5/history/AUDJPY/2012.hcc
+bases/FxPro-MT5/history/AUDJPY/2013.hcc
+bases/FxPro-MT5/history/AUDJPY/2014.hcc
+bases/FxPro-MT5/history/AUDJPY/2015.hcc
+bases/FxPro-MT5/history/AUDJPY/2016.hcc
+bases/FxPro-MT5/history/AUDJPY/2017.hcc
+bases/FxPro-MT5/history/AUDJPY/2018.hcc
+bases/FxPro-MT5/history/AUDJPY/2019.hcc
+bases/FxPro-MT5/history/AUDJPY/2020.hcc
+bases/FxPro-MT5/history/AUDJPY/cache/Daily.hc
+bases/FxPro-MT5/history/AUDJPY/cache/H1.hc
+bases/FxPro-MT5/history/AUDJPY/cache/M1.hc
+bases/FxPro-MT5/history/AUDNZD/1993.hcc
+bases/FxPro-MT5/history/AUDNZD/1994.hcc
+bases/FxPro-MT5/history/AUDNZD/1995.hcc
+bases/FxPro-MT5/history/AUDNZD/1996.hcc
+bases/FxPro-MT5/history/AUDNZD/1997.hcc
+bases/FxPro-MT5/history/AUDNZD/1998.hcc
+bases/FxPro-MT5/history/AUDNZD/1999.hcc
+bases/FxPro-MT5/history/AUDNZD/2000.hcc
+bases/FxPro-MT5/history/AUDNZD/2001.hcc
+bases/FxPro-MT5/history/AUDNZD/2002.hcc
+bases/FxPro-MT5/history/AUDNZD/2003.hcc
+bases/FxPro-MT5/history/AUDNZD/2004.hcc
+bases/FxPro-MT5/history/AUDNZD/2005.hcc
+bases/FxPro-MT5/history/AUDNZD/2006.hcc
+bases/FxPro-MT5/history/AUDNZD/2007.hcc
+bases/FxPro-MT5/history/AUDNZD/2008.hcc
+bases/FxPro-MT5/history/AUDNZD/2009.hcc
+bases/FxPro-MT5/history/AUDNZD/2010.hcc
+bases/FxPro-MT5/history/AUDNZD/2011.hcc
+bases/FxPro-MT5/history/AUDNZD/2012.hcc
+bases/FxPro-MT5/history/AUDNZD/2013.hcc
+bases/FxPro-MT5/history/AUDNZD/2014.hcc
+bases/FxPro-MT5/history/AUDNZD/2015.hcc
+bases/FxPro-MT5/history/AUDNZD/2016.hcc
+bases/FxPro-MT5/history/AUDNZD/2017.hcc
+bases/FxPro-MT5/history/AUDNZD/2018.hcc
+bases/FxPro-MT5/history/AUDNZD/2019.hcc
+bases/FxPro-MT5/history/AUDNZD/2020.hcc
+bases/FxPro-MT5/history/AUDNZD/cache/Daily.hc
+bases/FxPro-MT5/history/AUDNZD/cache/H1.hc
+bases/FxPro-MT5/history/AUDNZD/cache/M1.hc
+bases/FxPro-MT5/history/AUDUSD/1993.hcc
+bases/FxPro-MT5/history/AUDUSD/1994.hcc
+bases/FxPro-MT5/history/AUDUSD/1995.hcc
+bases/FxPro-MT5/history/AUDUSD/1996.hcc
+bases/FxPro-MT5/history/AUDUSD/1997.hcc
+bases/FxPro-MT5/history/AUDUSD/1998.hcc
+bases/FxPro-MT5/history/AUDUSD/1999.hcc
+bases/FxPro-MT5/history/AUDUSD/2000.hcc
+bases/FxPro-MT5/history/AUDUSD/2001.hcc
+bases/FxPro-MT5/history/AUDUSD/2002.hcc
+bases/FxPro-MT5/history/AUDUSD/2003.hcc
+bases/FxPro-MT5/history/AUDUSD/2004.hcc
+bases/FxPro-MT5/history/AUDUSD/2005.hcc
+bases/FxPro-MT5/history/AUDUSD/2006.hcc
+bases/FxPro-MT5/history/AUDUSD/2007.hcc
+bases/FxPro-MT5/history/AUDUSD/2008.hcc
+bases/FxPro-MT5/history/AUDUSD/2009.hcc
+bases/FxPro-MT5/history/AUDUSD/2010.hcc
+bases/FxPro-MT5/history/AUDUSD/2011.hcc
+bases/FxPro-MT5/history/AUDUSD/2012.hcc
+bases/FxPro-MT5/history/AUDUSD/2013.hcc
+bases/FxPro-MT5/history/AUDUSD/2014.hcc
+bases/FxPro-MT5/history/AUDUSD/2015.hcc
+bases/FxPro-MT5/history/AUDUSD/2016.hcc
+bases/FxPro-MT5/history/AUDUSD/2017.hcc
+bases/FxPro-MT5/history/AUDUSD/2018.hcc
+bases/FxPro-MT5/history/AUDUSD/2019.hcc
+bases/FxPro-MT5/history/AUDUSD/2020.hcc
+bases/FxPro-MT5/history/AUDUSD/cache/Daily.hc
+bases/FxPro-MT5/history/AUDUSD/cache/H1.hc
+bases/FxPro-MT5/history/AUDUSD/cache/M1.hc
+bases/FxPro-MT5/history/AUDUSD/cache/M5.hc
+bases/FxPro-MT5/history/CADCHF/1993.hcc
+bases/FxPro-MT5/history/CADCHF/1994.hcc
+bases/FxPro-MT5/history/CADCHF/1995.hcc
+bases/FxPro-MT5/history/CADCHF/1996.hcc
+bases/FxPro-MT5/history/CADCHF/1997.hcc
+bases/FxPro-MT5/history/CADCHF/1998.hcc
+bases/FxPro-MT5/history/CADCHF/1999.hcc
+bases/FxPro-MT5/history/CADCHF/2000.hcc
+bases/FxPro-MT5/history/CADCHF/2001.hcc
+bases/FxPro-MT5/history/CADCHF/2002.hcc
+bases/FxPro-MT5/history/CADCHF/2003.hcc
+bases/FxPro-MT5/history/CADCHF/2004.hcc
+bases/FxPro-MT5/history/CADCHF/2005.hcc
+bases/FxPro-MT5/history/CADCHF/2006.hcc
+bases/FxPro-MT5/history/CADCHF/2007.hcc
+bases/FxPro-MT5/history/CADCHF/2008.hcc
+bases/FxPro-MT5/history/CADCHF/2009.hcc
+bases/FxPro-MT5/history/CADCHF/2010.hcc
+bases/FxPro-MT5/history/CADCHF/2011.hcc
+bases/FxPro-MT5/history/CADCHF/2012.hcc
+bases/FxPro-MT5/history/CADCHF/2013.hcc
+bases/FxPro-MT5/history/CADCHF/2014.hcc
+bases/FxPro-MT5/history/CADCHF/2015.hcc
+bases/FxPro-MT5/history/CADCHF/2016.hcc
+bases/FxPro-MT5/history/CADCHF/2017.hcc
+bases/FxPro-MT5/history/CADCHF/2018.hcc
+bases/FxPro-MT5/history/CADCHF/2019.hcc
+bases/FxPro-MT5/history/CADCHF/2020.hcc
+bases/FxPro-MT5/history/CADCHF/cache/Daily.hc
+bases/FxPro-MT5/history/CADCHF/cache/H1.hc
+bases/FxPro-MT5/history/CADCHF/cache/M1.hc
+bases/FxPro-MT5/history/CHFJPY/1992.hcc
+bases/FxPro-MT5/history/CHFJPY/1993.hcc
+bases/FxPro-MT5/history/CHFJPY/1994.hcc
+bases/FxPro-MT5/history/CHFJPY/1995.hcc
+bases/FxPro-MT5/history/CHFJPY/1996.hcc
+bases/FxPro-MT5/history/CHFJPY/1997.hcc
+bases/FxPro-MT5/history/CHFJPY/1998.hcc
+bases/FxPro-MT5/history/CHFJPY/1999.hcc
+bases/FxPro-MT5/history/CHFJPY/2000.hcc
+bases/FxPro-MT5/history/CHFJPY/2001.hcc
+bases/FxPro-MT5/history/CHFJPY/2002.hcc
+bases/FxPro-MT5/history/CHFJPY/2003.hcc
+bases/FxPro-MT5/history/CHFJPY/2004.hcc
+bases/FxPro-MT5/history/CHFJPY/2005.hcc
+bases/FxPro-MT5/history/CHFJPY/2006.hcc
+bases/FxPro-MT5/history/CHFJPY/2007.hcc
+bases/FxPro-MT5/history/CHFJPY/2008.hcc
+bases/FxPro-MT5/history/CHFJPY/2009.hcc
+bases/FxPro-MT5/history/CHFJPY/2010.hcc
+bases/FxPro-MT5/history/CHFJPY/2011.hcc
+bases/FxPro-MT5/history/CHFJPY/2012.hcc
+bases/FxPro-MT5/history/CHFJPY/2013.hcc
+bases/FxPro-MT5/history/CHFJPY/2014.hcc
+bases/FxPro-MT5/history/CHFJPY/2015.hcc
+bases/FxPro-MT5/history/CHFJPY/2016.hcc
+bases/FxPro-MT5/history/CHFJPY/2017.hcc
+bases/FxPro-MT5/history/CHFJPY/2018.hcc
+bases/FxPro-MT5/history/CHFJPY/2019.hcc
+bases/FxPro-MT5/history/CHFJPY/2020.hcc
+bases/FxPro-MT5/history/CHFJPY/cache/Daily.hc
+bases/FxPro-MT5/history/CHFJPY/cache/H1.hc
+bases/FxPro-MT5/history/CHFJPY/cache/M1.hc
+bases/FxPro-MT5/history/EURAUD/2004.hcc
+bases/FxPro-MT5/history/EURAUD/2005.hcc
+bases/FxPro-MT5/history/EURAUD/2006.hcc
+bases/FxPro-MT5/history/EURAUD/2007.hcc
+bases/FxPro-MT5/history/EURAUD/2008.hcc
+bases/FxPro-MT5/history/EURAUD/2009.hcc
+bases/FxPro-MT5/history/EURAUD/2010.hcc
+bases/FxPro-MT5/history/EURAUD/2011.hcc
+bases/FxPro-MT5/history/EURAUD/2012.hcc
+bases/FxPro-MT5/history/EURAUD/2013.hcc
+bases/FxPro-MT5/history/EURAUD/2014.hcc
+bases/FxPro-MT5/history/EURAUD/2015.hcc
+bases/FxPro-MT5/history/EURAUD/2016.hcc
+bases/FxPro-MT5/history/EURAUD/2017.hcc
+bases/FxPro-MT5/history/EURAUD/2018.hcc
+bases/FxPro-MT5/history/EURAUD/2019.hcc
+bases/FxPro-MT5/history/EURAUD/2020.hcc
+bases/FxPro-MT5/history/EURAUD/cache/Daily.hc
+bases/FxPro-MT5/history/EURAUD/cache/H1.hc
+bases/FxPro-MT5/history/EURAUD/cache/M1.hc
+bases/FxPro-MT5/history/EURCAD/1999.hcc
+bases/FxPro-MT5/history/EURCAD/2000.hcc
+bases/FxPro-MT5/history/EURCAD/2001.hcc
+bases/FxPro-MT5/history/EURCAD/2002.hcc
+bases/FxPro-MT5/history/EURCAD/2003.hcc
+bases/FxPro-MT5/history/EURCAD/2004.hcc
+bases/FxPro-MT5/history/EURCAD/2005.hcc
+bases/FxPro-MT5/history/EURCAD/2006.hcc
+bases/FxPro-MT5/history/EURCAD/2007.hcc
+bases/FxPro-MT5/history/EURCAD/2008.hcc
+bases/FxPro-MT5/history/EURCAD/2009.hcc
+bases/FxPro-MT5/history/EURCAD/2010.hcc
+bases/FxPro-MT5/history/EURCAD/2011.hcc
+bases/FxPro-MT5/history/EURCAD/2012.hcc
+bases/FxPro-MT5/history/EURCAD/2013.hcc
+bases/FxPro-MT5/history/EURCAD/2014.hcc
+bases/FxPro-MT5/history/EURCAD/2015.hcc
+bases/FxPro-MT5/history/EURCAD/2016.hcc
+bases/FxPro-MT5/history/EURCAD/2017.hcc
+bases/FxPro-MT5/history/EURCAD/2018.hcc
+bases/FxPro-MT5/history/EURCAD/2019.hcc
+bases/FxPro-MT5/history/EURCAD/2020.hcc
+bases/FxPro-MT5/history/EURCAD/cache/Daily.hc
+bases/FxPro-MT5/history/EURCAD/cache/H1.hc
+bases/FxPro-MT5/history/EURCAD/cache/M1.hc
+bases/FxPro-MT5/history/EURCHF/1993.hcc
+bases/FxPro-MT5/history/EURCHF/1994.hcc
+bases/FxPro-MT5/history/EURCHF/1995.hcc
+bases/FxPro-MT5/history/EURCHF/1996.hcc
+bases/FxPro-MT5/history/EURCHF/1997.hcc
+bases/FxPro-MT5/history/EURCHF/1998.hcc
+bases/FxPro-MT5/history/EURCHF/1999.hcc
+bases/FxPro-MT5/history/EURCHF/2000.hcc
+bases/FxPro-MT5/history/EURCHF/2001.hcc
+bases/FxPro-MT5/history/EURCHF/2002.hcc
+bases/FxPro-MT5/history/EURCHF/2003.hcc
+bases/FxPro-MT5/history/EURCHF/2004.hcc
+bases/FxPro-MT5/history/EURCHF/2005.hcc
+bases/FxPro-MT5/history/EURCHF/2006.hcc
+bases/FxPro-MT5/history/EURCHF/2007.hcc
+bases/FxPro-MT5/history/EURCHF/2008.hcc
+bases/FxPro-MT5/history/EURCHF/2009.hcc
+bases/FxPro-MT5/history/EURCHF/2010.hcc
+bases/FxPro-MT5/history/EURCHF/2011.hcc
+bases/FxPro-MT5/history/EURCHF/2012.hcc
+bases/FxPro-MT5/history/EURCHF/2013.hcc
+bases/FxPro-MT5/history/EURCHF/2014.hcc
+bases/FxPro-MT5/history/EURCHF/2015.hcc
+bases/FxPro-MT5/history/EURCHF/2016.hcc
+bases/FxPro-MT5/history/EURCHF/2017.hcc
+bases/FxPro-MT5/history/EURCHF/2018.hcc
+bases/FxPro-MT5/history/EURCHF/2019.hcc
+bases/FxPro-MT5/history/EURCHF/2020.hcc
+bases/FxPro-MT5/history/EURCHF/cache/Daily.hc
+bases/FxPro-MT5/history/EURCHF/cache/H1.hc
+bases/FxPro-MT5/history/EURCHF/cache/M1.hc
+bases/FxPro-MT5/history/EURGBP/1993.hcc
+bases/FxPro-MT5/history/EURGBP/1994.hcc
+bases/FxPro-MT5/history/EURGBP/1995.hcc
+bases/FxPro-MT5/history/EURGBP/1996.hcc
+bases/FxPro-MT5/history/EURGBP/1997.hcc
+bases/FxPro-MT5/history/EURGBP/1998.hcc
+bases/FxPro-MT5/history/EURGBP/1999.hcc
+bases/FxPro-MT5/history/EURGBP/2000.hcc
+bases/FxPro-MT5/history/EURGBP/2001.hcc
+bases/FxPro-MT5/history/EURGBP/2002.hcc
+bases/FxPro-MT5/history/EURGBP/2003.hcc
+bases/FxPro-MT5/history/EURGBP/2004.hcc
+bases/FxPro-MT5/history/EURGBP/2005.hcc
+bases/FxPro-MT5/history/EURGBP/2006.hcc
+bases/FxPro-MT5/history/EURGBP/2007.hcc
+bases/FxPro-MT5/history/EURGBP/2008.hcc
+bases/FxPro-MT5/history/EURGBP/2009.hcc
+bases/FxPro-MT5/history/EURGBP/2010.hcc
+bases/FxPro-MT5/history/EURGBP/2011.hcc
+bases/FxPro-MT5/history/EURGBP/2012.hcc
+bases/FxPro-MT5/history/EURGBP/2013.hcc
+bases/FxPro-MT5/history/EURGBP/2014.hcc
+bases/FxPro-MT5/history/EURGBP/2015.hcc
+bases/FxPro-MT5/history/EURGBP/2016.hcc
+bases/FxPro-MT5/history/EURGBP/2017.hcc
+bases/FxPro-MT5/history/EURGBP/2018.hcc
+bases/FxPro-MT5/history/EURGBP/2019.hcc
+bases/FxPro-MT5/history/EURGBP/2020.hcc
+bases/FxPro-MT5/history/EURGBP/cache/Daily.hc
+bases/FxPro-MT5/history/EURGBP/cache/H1.hc
+bases/FxPro-MT5/history/EURGBP/cache/M1.hc
+bases/FxPro-MT5/history/EURJPY/1993.hcc
+bases/FxPro-MT5/history/EURJPY/1994.hcc
+bases/FxPro-MT5/history/EURJPY/1995.hcc
+bases/FxPro-MT5/history/EURJPY/1996.hcc
+bases/FxPro-MT5/history/EURJPY/1997.hcc
+bases/FxPro-MT5/history/EURJPY/1998.hcc
+bases/FxPro-MT5/history/EURJPY/1999.hcc
+bases/FxPro-MT5/history/EURJPY/2000.hcc
+bases/FxPro-MT5/history/EURJPY/2001.hcc
+bases/FxPro-MT5/history/EURJPY/2002.hcc
+bases/FxPro-MT5/history/EURJPY/2003.hcc
+bases/FxPro-MT5/history/EURJPY/2004.hcc
+bases/FxPro-MT5/history/EURJPY/2005.hcc
+bases/FxPro-MT5/history/EURJPY/2006.hcc
+bases/FxPro-MT5/history/EURJPY/2007.hcc
+bases/FxPro-MT5/history/EURJPY/2008.hcc
+bases/FxPro-MT5/history/EURJPY/2009.hcc
+bases/FxPro-MT5/history/EURJPY/2010.hcc
+bases/FxPro-MT5/history/EURJPY/2011.hcc
+bases/FxPro-MT5/history/EURJPY/2012.hcc
+bases/FxPro-MT5/history/EURJPY/2013.hcc
+bases/FxPro-MT5/history/EURJPY/2014.hcc
+bases/FxPro-MT5/history/EURJPY/2015.hcc
+bases/FxPro-MT5/history/EURJPY/2016.hcc
+bases/FxPro-MT5/history/EURJPY/2017.hcc
+bases/FxPro-MT5/history/EURJPY/2018.hcc
+bases/FxPro-MT5/history/EURJPY/2019.hcc
+bases/FxPro-MT5/history/EURJPY/2020.hcc
+bases/FxPro-MT5/history/EURJPY/cache/Daily.hc
+bases/FxPro-MT5/history/EURJPY/cache/H1.hc
+bases/FxPro-MT5/history/EURJPY/cache/M1.hc
+bases/FxPro-MT5/history/EURNZD/1999.hcc
+bases/FxPro-MT5/history/EURNZD/2000.hcc
+bases/FxPro-MT5/history/EURNZD/2001.hcc
+bases/FxPro-MT5/history/EURNZD/2002.hcc
+bases/FxPro-MT5/history/EURNZD/2003.hcc
+bases/FxPro-MT5/history/EURNZD/2004.hcc
+bases/FxPro-MT5/history/EURNZD/2005.hcc
+bases/FxPro-MT5/history/EURNZD/2006.hcc
+bases/FxPro-MT5/history/EURNZD/2007.hcc
+bases/FxPro-MT5/history/EURNZD/2008.hcc
+bases/FxPro-MT5/history/EURNZD/2009.hcc
+bases/FxPro-MT5/history/EURNZD/2010.hcc
+bases/FxPro-MT5/history/EURNZD/2011.hcc
+bases/FxPro-MT5/history/EURNZD/2012.hcc
+bases/FxPro-MT5/history/EURNZD/2013.hcc
+bases/FxPro-MT5/history/EURNZD/2014.hcc
+bases/FxPro-MT5/history/EURNZD/2015.hcc
+bases/FxPro-MT5/history/EURNZD/2016.hcc
+bases/FxPro-MT5/history/EURNZD/2017.hcc
+bases/FxPro-MT5/history/EURNZD/2018.hcc
+bases/FxPro-MT5/history/EURNZD/2019.hcc
+bases/FxPro-MT5/history/EURNZD/2020.hcc
+bases/FxPro-MT5/history/EURNZD/cache/Daily.hc
+bases/FxPro-MT5/history/EURNZD/cache/H1.hc
+bases/FxPro-MT5/history/EURNZD/cache/M1.hc
+bases/FxPro-MT5/history/EURUSD/1971.hcc
+bases/FxPro-MT5/history/EURUSD/1972.hcc
+bases/FxPro-MT5/history/EURUSD/1973.hcc
+bases/FxPro-MT5/history/EURUSD/1974.hcc
+bases/FxPro-MT5/history/EURUSD/1975.hcc
+bases/FxPro-MT5/history/EURUSD/1976.hcc
+bases/FxPro-MT5/history/EURUSD/1977.hcc
+bases/FxPro-MT5/history/EURUSD/1978.hcc
+bases/FxPro-MT5/history/EURUSD/1979.hcc
+bases/FxPro-MT5/history/EURUSD/1980.hcc
+bases/FxPro-MT5/history/EURUSD/1981.hcc
+bases/FxPro-MT5/history/EURUSD/1982.hcc
+bases/FxPro-MT5/history/EURUSD/1983.hcc
+bases/FxPro-MT5/history/EURUSD/1984.hcc
+bases/FxPro-MT5/history/EURUSD/1985.hcc
+bases/FxPro-MT5/history/EURUSD/1986.hcc
+bases/FxPro-MT5/history/EURUSD/1987.hcc
+bases/FxPro-MT5/history/EURUSD/1988.hcc
+bases/FxPro-MT5/history/EURUSD/1989.hcc
+bases/FxPro-MT5/history/EURUSD/1990.hcc
+bases/FxPro-MT5/history/EURUSD/1991.hcc
+bases/FxPro-MT5/history/EURUSD/1992.hcc
+bases/FxPro-MT5/history/EURUSD/1993.hcc
+bases/FxPro-MT5/history/EURUSD/1994.hcc
+bases/FxPro-MT5/history/EURUSD/1995.hcc
+bases/FxPro-MT5/history/EURUSD/1996.hcc
+bases/FxPro-MT5/history/EURUSD/1997.hcc
+bases/FxPro-MT5/history/EURUSD/1998.hcc
+bases/FxPro-MT5/history/EURUSD/1999.hcc
+bases/FxPro-MT5/history/EURUSD/2000.hcc
+bases/FxPro-MT5/history/EURUSD/2001.hcc
+bases/FxPro-MT5/history/EURUSD/2002.hcc
+bases/FxPro-MT5/history/EURUSD/2003.hcc
+bases/FxPro-MT5/history/EURUSD/2004.hcc
+bases/FxPro-MT5/history/EURUSD/2005.hcc
+bases/FxPro-MT5/history/EURUSD/2006.hcc
+bases/FxPro-MT5/history/EURUSD/2007.hcc
+bases/FxPro-MT5/history/EURUSD/2008.hcc
+bases/FxPro-MT5/history/EURUSD/2009.hcc
+bases/FxPro-MT5/history/EURUSD/2010.hcc
+bases/FxPro-MT5/history/EURUSD/2011.hcc
+bases/FxPro-MT5/history/EURUSD/2012.hcc
+bases/FxPro-MT5/history/EURUSD/2013.hcc
+bases/FxPro-MT5/history/EURUSD/2014.hcc
+bases/FxPro-MT5/history/EURUSD/2015.hcc
+bases/FxPro-MT5/history/EURUSD/2016.hcc
+bases/FxPro-MT5/history/EURUSD/2017.hcc
+bases/FxPro-MT5/history/EURUSD/2018.hcc
+bases/FxPro-MT5/history/EURUSD/2019.hcc
+bases/FxPro-MT5/history/EURUSD/2020.hcc
+bases/FxPro-MT5/history/EURUSD/cache/Daily.hc
+bases/FxPro-MT5/history/EURUSD/cache/H1.hc
+bases/FxPro-MT5/history/EURUSD/cache/H4.hc
+bases/FxPro-MT5/history/EURUSD/cache/M1.hc
+bases/FxPro-MT5/history/EURUSD/cache/M5.hc
+bases/FxPro-MT5/history/GBPCHF/1993.hcc
+bases/FxPro-MT5/history/GBPCHF/1994.hcc
+bases/FxPro-MT5/history/GBPCHF/1995.hcc
+bases/FxPro-MT5/history/GBPCHF/1996.hcc
+bases/FxPro-MT5/history/GBPCHF/1997.hcc
+bases/FxPro-MT5/history/GBPCHF/1998.hcc
+bases/FxPro-MT5/history/GBPCHF/1999.hcc
+bases/FxPro-MT5/history/GBPCHF/2000.hcc
+bases/FxPro-MT5/history/GBPCHF/2001.hcc
+bases/FxPro-MT5/history/GBPCHF/2002.hcc
+bases/FxPro-MT5/history/GBPCHF/2003.hcc
+bases/FxPro-MT5/history/GBPCHF/2004.hcc
+bases/FxPro-MT5/history/GBPCHF/2005.hcc
+bases/FxPro-MT5/history/GBPCHF/2006.hcc
+bases/FxPro-MT5/history/GBPCHF/2007.hcc
+bases/FxPro-MT5/history/GBPCHF/2008.hcc
+bases/FxPro-MT5/history/GBPCHF/2009.hcc
+bases/FxPro-MT5/history/GBPCHF/2010.hcc
+bases/FxPro-MT5/history/GBPCHF/2011.hcc
+bases/FxPro-MT5/history/GBPCHF/2012.hcc
+bases/FxPro-MT5/history/GBPCHF/2013.hcc
+bases/FxPro-MT5/history/GBPCHF/2014.hcc
+bases/FxPro-MT5/history/GBPCHF/2015.hcc
+bases/FxPro-MT5/history/GBPCHF/2016.hcc
+bases/FxPro-MT5/history/GBPCHF/2017.hcc
+bases/FxPro-MT5/history/GBPCHF/2018.hcc
+bases/FxPro-MT5/history/GBPCHF/2019.hcc
+bases/FxPro-MT5/history/GBPCHF/2020.hcc
+bases/FxPro-MT5/history/GBPCHF/cache/Daily.hc
+bases/FxPro-MT5/history/GBPCHF/cache/H1.hc
+bases/FxPro-MT5/history/GBPCHF/cache/M1.hc
+bases/FxPro-MT5/history/GBPJPY/1993.hcc
+bases/FxPro-MT5/history/GBPJPY/1994.hcc
+bases/FxPro-MT5/history/GBPJPY/1995.hcc
+bases/FxPro-MT5/history/GBPJPY/1996.hcc
+bases/FxPro-MT5/history/GBPJPY/1997.hcc
+bases/FxPro-MT5/history/GBPJPY/1998.hcc
+bases/FxPro-MT5/history/GBPJPY/1999.hcc
+bases/FxPro-MT5/history/GBPJPY/2000.hcc
+bases/FxPro-MT5/history/GBPJPY/2001.hcc
+bases/FxPro-MT5/history/GBPJPY/2002.hcc
+bases/FxPro-MT5/history/GBPJPY/2003.hcc
+bases/FxPro-MT5/history/GBPJPY/2004.hcc
+bases/FxPro-MT5/history/GBPJPY/2005.hcc
+bases/FxPro-MT5/history/GBPJPY/2006.hcc
+bases/FxPro-MT5/history/GBPJPY/2007.hcc
+bases/FxPro-MT5/history/GBPJPY/2008.hcc
+bases/FxPro-MT5/history/GBPJPY/2009.hcc
+bases/FxPro-MT5/history/GBPJPY/2010.hcc
+bases/FxPro-MT5/history/GBPJPY/2011.hcc
+bases/FxPro-MT5/history/GBPJPY/2012.hcc
+bases/FxPro-MT5/history/GBPJPY/2013.hcc
+bases/FxPro-MT5/history/GBPJPY/2014.hcc
+bases/FxPro-MT5/history/GBPJPY/2015.hcc
+bases/FxPro-MT5/history/GBPJPY/2016.hcc
+bases/FxPro-MT5/history/GBPJPY/2017.hcc
+bases/FxPro-MT5/history/GBPJPY/2018.hcc
+bases/FxPro-MT5/history/GBPJPY/2019.hcc
+bases/FxPro-MT5/history/GBPJPY/2020.hcc
+bases/FxPro-MT5/history/GBPJPY/cache/Daily.hc
+bases/FxPro-MT5/history/GBPJPY/cache/H1.hc
+bases/FxPro-MT5/history/GBPJPY/cache/M1.hc
+bases/FxPro-MT5/history/GBPUSD/1993.hcc
+bases/FxPro-MT5/history/GBPUSD/1994.hcc
+bases/FxPro-MT5/history/GBPUSD/1995.hcc
+bases/FxPro-MT5/history/GBPUSD/1996.hcc
+bases/FxPro-MT5/history/GBPUSD/1997.hcc
+bases/FxPro-MT5/history/GBPUSD/1998.hcc
+bases/FxPro-MT5/history/GBPUSD/1999.hcc
+bases/FxPro-MT5/history/GBPUSD/2000.hcc
+bases/FxPro-MT5/history/GBPUSD/2001.hcc
+bases/FxPro-MT5/history/GBPUSD/2002.hcc
+bases/FxPro-MT5/history/GBPUSD/2003.hcc
+bases/FxPro-MT5/history/GBPUSD/2004.hcc
+bases/FxPro-MT5/history/GBPUSD/2005.hcc
+bases/FxPro-MT5/history/GBPUSD/2006.hcc
+bases/FxPro-MT5/history/GBPUSD/2007.hcc
+bases/FxPro-MT5/history/GBPUSD/2008.hcc
+bases/FxPro-MT5/history/GBPUSD/2009.hcc
+bases/FxPro-MT5/history/GBPUSD/2010.hcc
+bases/FxPro-MT5/history/GBPUSD/2011.hcc
+bases/FxPro-MT5/history/GBPUSD/2012.hcc
+bases/FxPro-MT5/history/GBPUSD/2013.hcc
+bases/FxPro-MT5/history/GBPUSD/2014.hcc
+bases/FxPro-MT5/history/GBPUSD/2015.hcc
+bases/FxPro-MT5/history/GBPUSD/2016.hcc
+bases/FxPro-MT5/history/GBPUSD/2017.hcc
+bases/FxPro-MT5/history/GBPUSD/2018.hcc
+bases/FxPro-MT5/history/GBPUSD/2019.hcc
+bases/FxPro-MT5/history/GBPUSD/2020.hcc
+bases/FxPro-MT5/history/GBPUSD/cache/Daily.hc
+bases/FxPro-MT5/history/GBPUSD/cache/H1.hc
+bases/FxPro-MT5/history/GBPUSD/cache/H4.hc
+bases/FxPro-MT5/history/GBPUSD/cache/M1.hc
+bases/FxPro-MT5/history/USDCAD/1993.hcc
+bases/FxPro-MT5/history/USDCAD/1994.hcc
+bases/FxPro-MT5/history/USDCAD/1995.hcc
+bases/FxPro-MT5/history/USDCAD/1996.hcc
+bases/FxPro-MT5/history/USDCAD/1997.hcc
+bases/FxPro-MT5/history/USDCAD/1998.hcc
+bases/FxPro-MT5/history/USDCAD/1999.hcc
+bases/FxPro-MT5/history/USDCAD/2000.hcc
+bases/FxPro-MT5/history/USDCAD/2001.hcc
+bases/FxPro-MT5/history/USDCAD/2002.hcc
+bases/FxPro-MT5/history/USDCAD/2003.hcc
+bases/FxPro-MT5/history/USDCAD/2004.hcc
+bases/FxPro-MT5/history/USDCAD/2005.hcc
+bases/FxPro-MT5/history/USDCAD/2006.hcc
+bases/FxPro-MT5/history/USDCAD/2007.hcc
+bases/FxPro-MT5/history/USDCAD/2008.hcc
+bases/FxPro-MT5/history/USDCAD/2009.hcc
+bases/FxPro-MT5/history/USDCAD/2010.hcc
+bases/FxPro-MT5/history/USDCAD/2011.hcc
+bases/FxPro-MT5/history/USDCAD/2012.hcc
+bases/FxPro-MT5/history/USDCAD/2013.hcc
+bases/FxPro-MT5/history/USDCAD/2014.hcc
+bases/FxPro-MT5/history/USDCAD/2015.hcc
+bases/FxPro-MT5/history/USDCAD/2016.hcc
+bases/FxPro-MT5/history/USDCAD/2017.hcc
+bases/FxPro-MT5/history/USDCAD/2018.hcc
+bases/FxPro-MT5/history/USDCAD/2019.hcc
+bases/FxPro-MT5/history/USDCAD/2020.hcc
+bases/FxPro-MT5/history/USDCAD/cache/Daily.hc
+bases/FxPro-MT5/history/USDCAD/cache/H1.hc
+bases/FxPro-MT5/history/USDCAD/cache/M1.hc
+bases/FxPro-MT5/history/USDCHF/1971.hcc
+bases/FxPro-MT5/history/USDCHF/1972.hcc
+bases/FxPro-MT5/history/USDCHF/1973.hcc
+bases/FxPro-MT5/history/USDCHF/1974.hcc
+bases/FxPro-MT5/history/USDCHF/1975.hcc
+bases/FxPro-MT5/history/USDCHF/1976.hcc
+bases/FxPro-MT5/history/USDCHF/1977.hcc
+bases/FxPro-MT5/history/USDCHF/1978.hcc
+bases/FxPro-MT5/history/USDCHF/1979.hcc
+bases/FxPro-MT5/history/USDCHF/1980.hcc
+bases/FxPro-MT5/history/USDCHF/1981.hcc
+bases/FxPro-MT5/history/USDCHF/1982.hcc
+bases/FxPro-MT5/history/USDCHF/1983.hcc
+bases/FxPro-MT5/history/USDCHF/1984.hcc
+bases/FxPro-MT5/history/USDCHF/1985.hcc
+bases/FxPro-MT5/history/USDCHF/1986.hcc
+bases/FxPro-MT5/history/USDCHF/1987.hcc
+bases/FxPro-MT5/history/USDCHF/1988.hcc
+bases/FxPro-MT5/history/USDCHF/1989.hcc
+bases/FxPro-MT5/history/USDCHF/1990.hcc
+bases/FxPro-MT5/history/USDCHF/1991.hcc
+bases/FxPro-MT5/history/USDCHF/1992.hcc
+bases/FxPro-MT5/history/USDCHF/1993.hcc
+bases/FxPro-MT5/history/USDCHF/1994.hcc
+bases/FxPro-MT5/history/USDCHF/1995.hcc
+bases/FxPro-MT5/history/USDCHF/1996.hcc
+bases/FxPro-MT5/history/USDCHF/1997.hcc
+bases/FxPro-MT5/history/USDCHF/1998.hcc
+bases/FxPro-MT5/history/USDCHF/1999.hcc
+bases/FxPro-MT5/history/USDCHF/2000.hcc
+bases/FxPro-MT5/history/USDCHF/2001.hcc
+bases/FxPro-MT5/history/USDCHF/2002.hcc
+bases/FxPro-MT5/history/USDCHF/2003.hcc
+bases/FxPro-MT5/history/USDCHF/2004.hcc
+bases/FxPro-MT5/history/USDCHF/2005.hcc
+bases/FxPro-MT5/history/USDCHF/2006.hcc
+bases/FxPro-MT5/history/USDCHF/2007.hcc
+bases/FxPro-MT5/history/USDCHF/2008.hcc
+bases/FxPro-MT5/history/USDCHF/2009.hcc
+bases/FxPro-MT5/history/USDCHF/2010.hcc
+bases/FxPro-MT5/history/USDCHF/2011.hcc
+bases/FxPro-MT5/history/USDCHF/2012.hcc
+bases/FxPro-MT5/history/USDCHF/2013.hcc
+bases/FxPro-MT5/history/USDCHF/2014.hcc
+bases/FxPro-MT5/history/USDCHF/2015.hcc
+bases/FxPro-MT5/history/USDCHF/2016.hcc
+bases/FxPro-MT5/history/USDCHF/2017.hcc
+bases/FxPro-MT5/history/USDCHF/2018.hcc
+bases/FxPro-MT5/history/USDCHF/2019.hcc
+bases/FxPro-MT5/history/USDCHF/2020.hcc
+bases/FxPro-MT5/history/USDCHF/cache/Daily.hc
+bases/FxPro-MT5/history/USDCHF/cache/H1.hc
+bases/FxPro-MT5/history/USDCHF/cache/H4.hc
+bases/FxPro-MT5/history/USDCHF/cache/M1.hc
+bases/FxPro-MT5/history/USDJPY/1971.hcc
+bases/FxPro-MT5/history/USDJPY/1972.hcc
+bases/FxPro-MT5/history/USDJPY/1973.hcc
+bases/FxPro-MT5/history/USDJPY/1974.hcc
+bases/FxPro-MT5/history/USDJPY/1975.hcc
+bases/FxPro-MT5/history/USDJPY/1976.hcc
+bases/FxPro-MT5/history/USDJPY/1977.hcc
+bases/FxPro-MT5/history/USDJPY/1978.hcc
+bases/FxPro-MT5/history/USDJPY/1979.hcc
+bases/FxPro-MT5/history/USDJPY/1980.hcc
+bases/FxPro-MT5/history/USDJPY/1981.hcc
+bases/FxPro-MT5/history/USDJPY/1982.hcc
+bases/FxPro-MT5/history/USDJPY/1983.hcc
+bases/FxPro-MT5/history/USDJPY/1984.hcc
+bases/FxPro-MT5/history/USDJPY/1985.hcc
+bases/FxPro-MT5/history/USDJPY/1986.hcc
+bases/FxPro-MT5/history/USDJPY/1987.hcc
+bases/FxPro-MT5/history/USDJPY/1988.hcc
+bases/FxPro-MT5/history/USDJPY/1989.hcc
+bases/FxPro-MT5/history/USDJPY/1990.hcc
+bases/FxPro-MT5/history/USDJPY/1991.hcc
+bases/FxPro-MT5/history/USDJPY/1992.hcc
+bases/FxPro-MT5/history/USDJPY/1993.hcc
+bases/FxPro-MT5/history/USDJPY/1994.hcc
+bases/FxPro-MT5/history/USDJPY/1995.hcc
+bases/FxPro-MT5/history/USDJPY/1996.hcc
+bases/FxPro-MT5/history/USDJPY/1997.hcc
+bases/FxPro-MT5/history/USDJPY/1998.hcc
+bases/FxPro-MT5/history/USDJPY/1999.hcc
+bases/FxPro-MT5/history/USDJPY/2000.hcc
+bases/FxPro-MT5/history/USDJPY/2001.hcc
+bases/FxPro-MT5/history/USDJPY/2002.hcc
+bases/FxPro-MT5/history/USDJPY/2003.hcc
+bases/FxPro-MT5/history/USDJPY/2004.hcc
+bases/FxPro-MT5/history/USDJPY/2005.hcc
+bases/FxPro-MT5/history/USDJPY/2006.hcc
+bases/FxPro-MT5/history/USDJPY/2007.hcc
+bases/FxPro-MT5/history/USDJPY/2008.hcc
+bases/FxPro-MT5/history/USDJPY/2009.hcc
+bases/FxPro-MT5/history/USDJPY/2010.hcc
+bases/FxPro-MT5/history/USDJPY/2011.hcc
+bases/FxPro-MT5/history/USDJPY/2012.hcc
+bases/FxPro-MT5/history/USDJPY/2013.hcc
+bases/FxPro-MT5/history/USDJPY/2014.hcc
+bases/FxPro-MT5/history/USDJPY/2015.hcc
+bases/FxPro-MT5/history/USDJPY/2016.hcc
+bases/FxPro-MT5/history/USDJPY/2017.hcc
+bases/FxPro-MT5/history/USDJPY/2018.hcc
+bases/FxPro-MT5/history/USDJPY/2019.hcc
+bases/FxPro-MT5/history/USDJPY/2020.hcc
+bases/FxPro-MT5/history/USDJPY/cache/Daily.hc
+bases/FxPro-MT5/history/USDJPY/cache/H1.hc
+bases/FxPro-MT5/history/USDJPY/cache/H4.hc
+bases/FxPro-MT5/history/USDJPY/cache/M1.hc
+bases/FxPro-MT5/mail/mail-5301872.dat
+bases/FxPro-MT5/mail/mail-5337706.dat
+bases/FxPro-MT5/news/news.dat
+bases/FxPro-MT5/subscriptions/subscriptions-5301872.dat
+bases/FxPro-MT5/subscriptions/subscriptions-5337706.dat
+bases/FxPro-MT5/symbols/selected-5301872.dat
+bases/FxPro-MT5/symbols/selected-5337706.dat
+bases/FxPro-MT5/symbols/spreads-5301872.dat
+bases/FxPro-MT5/symbols/spreads-5337706.dat
+bases/FxPro-MT5/symbols/symbols-5337706.dat
+bases/FxPro-MT5/ticks/AUDCAD/ticks.dat
+bases/FxPro-MT5/ticks/AUDCHF/ticks.dat
+bases/FxPro-MT5/ticks/AUDJPY/ticks.dat
+bases/FxPro-MT5/ticks/AUDNZD/ticks.dat
+bases/FxPro-MT5/ticks/AUDUSD/ticks.dat
+bases/FxPro-MT5/ticks/CADCHF/ticks.dat
+bases/FxPro-MT5/ticks/CHFJPY/ticks.dat
+bases/FxPro-MT5/ticks/EURAUD/ticks.dat
+bases/FxPro-MT5/ticks/EURCAD/ticks.dat
+bases/FxPro-MT5/ticks/EURCHF/ticks.dat
+bases/FxPro-MT5/ticks/EURGBP/ticks.dat
+bases/FxPro-MT5/ticks/EURJPY/ticks.dat
+bases/FxPro-MT5/ticks/EURNZD/ticks.dat
+bases/FxPro-MT5/ticks/EURUSD/ticks.dat
+bases/FxPro-MT5/ticks/GBPCHF/ticks.dat
+bases/FxPro-MT5/ticks/GBPJPY/ticks.dat
+bases/FxPro-MT5/ticks/GBPUSD/ticks.dat
+bases/FxPro-MT5/ticks/USDCAD/ticks.dat
+bases/FxPro-MT5/ticks/USDCHF/ticks.dat
+bases/FxPro-MT5/ticks/USDJPY/ticks.dat
+bases/FxPro-MT5/trades/5337706/deals_2020.10.dat
+config/accounts.dat
+config/agents.dat
+config/common.ini
+config/hotkeys.ini
+config/jupyter.ini
+config/metaeditor.ini
+config/servers.dat
+config/settings.ini
+config/terminal.ini
+logs/20200929.log
+logs/20200930.log
+logs/20201004.log
+logs/20201007.log
+logs/20201009.log
+logs/20201011.log
+logs/20201012.log
+logs/20201013.log
+logs/20201018.log
+logs/20201019.log
+logs/20201020.log
+logs/metaeditor.log
+.vscode/c_cpp_properties.json
+MQL5/Scripts/shistoryexport.ex5
+MQL5/Scripts/shistoryexport.mq5
+MQL5/Scripts/Examples/AccountInfo/AccountInfoSample.ex5
+MQL5/Scripts/Examples/AccountInfo/AccountInfoSample.mq5
+MQL5/Scripts/Examples/AccountInfo/AccountInfoSampleInit.mqh
+MQL5/Scripts/Examples/ArrayDouble/ArrayDoubleSample.ex5
+MQL5/Scripts/Examples/ArrayDouble/ArrayDoubleSample.mq5
+MQL5/Scripts/Examples/Canvas/CanvasSample.ex5
+MQL5/Scripts/Examples/Canvas/CanvasSample.mq5
+MQL5/Scripts/Examples/Canvas/Charts/HistogramChartSample.ex5
+MQL5/Scripts/Examples/Canvas/Charts/HistogramChartSample.mq5
+MQL5/Scripts/Examples/Canvas/Charts/LineChartSample.ex5
+MQL5/Scripts/Examples/Canvas/Charts/LineChartSample.mq5
+MQL5/Scripts/Examples/Canvas/Charts/PieChartSample.ex5
+MQL5/Scripts/Examples/Canvas/Charts/PieChartSample.mq5
+MQL5/Scripts/Examples/ObjectChart/ChartSampleInit.mqh
+MQL5/Scripts/Examples/ObjectChart/ObjChartSample.ex5
+MQL5/Scripts/Examples/ObjectChart/ObjChartSample.mq5
+MQL5/Scripts/Examples/ObjectSphere/Sphere.mqh
+MQL5/Scripts/Examples/ObjectSphere/SphereSample.ex5
+MQL5/Scripts/Examples/ObjectSphere/SphereSample.mq5
+MQL5/Scripts/Examples/OpenCL/Double/BitonicSort.ex5
+MQL5/Scripts/Examples/OpenCL/Double/BitonicSort.mq5
+MQL5/Scripts/Examples/OpenCL/Double/FFT.ex5
+MQL5/Scripts/Examples/OpenCL/Double/FFT.mq5
+MQL5/Scripts/Examples/OpenCL/Double/MatrixMult.ex5
+MQL5/Scripts/Examples/OpenCL/Double/MatrixMult.mq5
+MQL5/Scripts/Examples/OpenCL/Double/Wavelet.ex5
+MQL5/Scripts/Examples/OpenCL/Double/Wavelet.mq5
+MQL5/Scripts/Examples/OpenCL/Double/Kernels/bitonicsort.cl
+MQL5/Scripts/Examples/OpenCL/Double/Kernels/fft.cl
+MQL5/Scripts/Examples/OpenCL/Double/Kernels/matrixmult.cl
+MQL5/Scripts/Examples/OpenCL/Double/Kernels/wavelet.cl
+MQL5/Scripts/Examples/OpenCL/Float/BitonicSort.ex5
+MQL5/Scripts/Examples/OpenCL/Float/BitonicSort.mq5
+MQL5/Scripts/Examples/OpenCL/Float/FFT.ex5
+MQL5/Scripts/Examples/OpenCL/Float/FFT.mq5
+MQL5/Scripts/Examples/OpenCL/Float/MatrixMult.ex5
+MQL5/Scripts/Examples/OpenCL/Float/MatrixMult.mq5
+MQL5/Scripts/Examples/OpenCL/Float/Wavelet.ex5
+MQL5/Scripts/Examples/OpenCL/Float/Wavelet.mq5
+MQL5/Scripts/Examples/OpenCL/Float/Kernels/bitonicsort.cl
+MQL5/Scripts/Examples/OpenCL/Float/Kernels/fft.cl
+MQL5/Scripts/Examples/OpenCL/Float/Kernels/matrixmult.cl
+MQL5/Scripts/Examples/OpenCL/Float/Kernels/wavelet.cl
+MQL5/Scripts/Examples/OpenCL/Seascape/Seascape.cl
+MQL5/Scripts/Examples/OpenCL/Seascape/Seascape.ex5
+MQL5/Scripts/Examples/OpenCL/Seascape/Seascape.mq5
+MQL5/Scripts/Examples/OpenCL/Seascape/Seascape.mqproj
+MQL5/Scripts/Examples/OrderInfo/OrderInfoSample.ex5
+MQL5/Scripts/Examples/OrderInfo/OrderInfoSample.mq5
+MQL5/Scripts/Examples/OrderInfo/OrderInfoSampleInit.mqh
+MQL5/Scripts/Examples/PositionInfo/PositionInfoSample.ex5
+MQL5/Scripts/Examples/PositionInfo/PositionInfoSample.mq5
+MQL5/Scripts/Examples/PositionInfo/PositionInfoSampleInit.mqh
+MQL5/Scripts/Examples/Remnant 3D/Remnant 3D.ex5
+MQL5/Scripts/Examples/Remnant 3D/Remnant 3D.mq5
+MQL5/Scripts/Examples/Remnant 3D/Remnant 3D.mqproj
+MQL5/Scripts/Examples/Remnant 3D/Shaders/pixel.hlsl
+MQL5/Scripts/Examples/Remnant 3D/Shaders/vertex.hlsl
+MQL5/Scripts/Examples/SymbolInfo/SymbolInfoSample.ex5
+MQL5/Scripts/Examples/SymbolInfo/SymbolInfoSample.mq5
+MQL5/Scripts/Examples/SymbolInfo/SymbolInfoSampleInit.mqh
+MQL5/Scripts/UnitTests/Alglib/TestClasses.mq5
+MQL5/Scripts/UnitTests/Alglib/TestClasses.mqh
+MQL5/Scripts/UnitTests/Alglib/TestInterfaces.mq5
+MQL5/Scripts/UnitTests/Alglib/TestInterfaces.mqh
+MQL5/Scripts/UnitTests/Fuzzy/TestFuzzy.mq5
+MQL5/Scripts/UnitTests/Generic/TestArrayList.mq5
+MQL5/Scripts/UnitTests/Generic/TestHashMap.mq5
+MQL5/Scripts/UnitTests/Generic/TestHashSet.mq5
+MQL5/Scripts/UnitTests/Generic/TestLinkedList.mq5
+MQL5/Scripts/UnitTests/Generic/TestQueue.mq5
+MQL5/Scripts/UnitTests/Generic/TestRedBlackTree.mq5
+MQL5/Scripts/UnitTests/Generic/TestSortedMap.mq5
+MQL5/Scripts/UnitTests/Generic/TestSortedSet.mq5
+MQL5/Scripts/UnitTests/Generic/TestStack.mq5
+MQL5/Scripts/UnitTests/Stat/TestStat.mq5
+MQL5/Scripts/UnitTests/Stat/TestStatBenchmark.mq5
+MQL5/Scripts/UnitTests/Stat/TestStatPrecision.mq5
+MQL5/Profiles/Charts/British Pound/chart01.chr
+MQL5/Profiles/Charts/British Pound/chart02.chr
+MQL5/Profiles/Charts/British Pound/chart03.chr
+MQL5/Profiles/Charts/British Pound/chart04.chr
+MQL5/Profiles/Charts/British Pound/order.wnd
+MQL5/Profiles/Charts/Default/chart01.chr
+MQL5/Profiles/Charts/Default/chart02.chr
+MQL5/Profiles/Charts/Default/order.wnd
+MQL5/Profiles/Charts/Euro/chart01.chr
+MQL5/Profiles/Charts/Euro/chart02.chr
+MQL5/Profiles/Charts/Euro/chart03.chr
+MQL5/Profiles/Charts/Euro/chart04.chr
+MQL5/Profiles/Charts/Euro/order.wnd
+MQL5/Profiles/Charts/Market Overview/chart01.chr
+MQL5/Profiles/Charts/Market Overview/chart02.chr
+MQL5/Profiles/Charts/Market Overview/chart03.chr
+MQL5/Profiles/Charts/Market Overview/chart04.chr
+MQL5/Profiles/Charts/Market Overview/order.wnd
+MQL5/Profiles/SymbolSets/forex.all.set
+MQL5/Profiles/SymbolSets/forex.crosses.set
+MQL5/Profiles/SymbolSets/forex.major.set
+MQL5/Profiles/Templates/ADX.tpl
+MQL5/Profiles/Templates/BollingerBands.tpl
+MQL5/Profiles/Templates/Momentum.tpl
+MQL5/Profiles/Tester/Moving Average.set
+MQL5/Logs/20201012.log
+MQL5/Indicators/Examples/Accelerator.ex5
+MQL5/Indicators/Examples/Accelerator.mq5
+MQL5/Indicators/Examples/AD.ex5
+MQL5/Indicators/Examples/AD.mq5
+MQL5/Indicators/Examples/ADX.ex5
+MQL5/Indicators/Examples/ADX.mq5
+MQL5/Indicators/Examples/ADXW.ex5
+MQL5/Indicators/Examples/ADXW.mq5
+MQL5/Indicators/Examples/Alligator.ex5
+MQL5/Indicators/Examples/Alligator.mq5
+MQL5/Indicators/Examples/AMA.ex5
+MQL5/Indicators/Examples/AMA.mq5
+MQL5/Indicators/Examples/ASI.ex5
+MQL5/Indicators/Examples/ASI.mq5
+MQL5/Indicators/Examples/ATR.ex5
+MQL5/Indicators/Examples/ATR.mq5
+MQL5/Indicators/Examples/Awesome_Oscillator.ex5
+MQL5/Indicators/Examples/Awesome_Oscillator.mq5
+MQL5/Indicators/Examples/BB.ex5
+MQL5/Indicators/Examples/BB.mq5
+MQL5/Indicators/Examples/Bears.ex5
+MQL5/Indicators/Examples/Bears.mq5
+MQL5/Indicators/Examples/Bulls.ex5
+MQL5/Indicators/Examples/Bulls.mq5
+MQL5/Indicators/Examples/BW-ZoneTrade.ex5
+MQL5/Indicators/Examples/BW-ZoneTrade.mq5
+MQL5/Indicators/Examples/CCI.ex5
+MQL5/Indicators/Examples/CCI.mq5
+MQL5/Indicators/Examples/CHO.ex5
+MQL5/Indicators/Examples/CHO.mq5
+MQL5/Indicators/Examples/CHV.ex5
+MQL5/Indicators/Examples/CHV.mq5
+MQL5/Indicators/Examples/ColorBars.ex5
+MQL5/Indicators/Examples/ColorBars.mq5
+MQL5/Indicators/Examples/ColorCandlesDaily.ex5
+MQL5/Indicators/Examples/ColorCandlesDaily.mq5
+MQL5/Indicators/Examples/ColorLine.ex5
+MQL5/Indicators/Examples/ColorLine.mq5
+MQL5/Indicators/Examples/Custom Moving Average.ex5
+MQL5/Indicators/Examples/Custom Moving Average.mq5
+MQL5/Indicators/Examples/DEMA.ex5
+MQL5/Indicators/Examples/DEMA.mq5
+MQL5/Indicators/Examples/DeMarker.ex5
+MQL5/Indicators/Examples/DeMarker.mq5
+MQL5/Indicators/Examples/DPO.ex5
+MQL5/Indicators/Examples/DPO.mq5
+MQL5/Indicators/Examples/Envelopes.ex5
+MQL5/Indicators/Examples/Envelopes.mq5
+MQL5/Indicators/Examples/Force_Index.ex5
+MQL5/Indicators/Examples/Force_Index.mq5
+MQL5/Indicators/Examples/Fractals.ex5
+MQL5/Indicators/Examples/Fractals.mq5
+MQL5/Indicators/Examples/FrAMA.ex5
+MQL5/Indicators/Examples/FrAMA.mq5
+MQL5/Indicators/Examples/Gator_2.ex5
+MQL5/Indicators/Examples/Gator_2.mq5
+MQL5/Indicators/Examples/Gator.ex5
+MQL5/Indicators/Examples/Gator.mq5
+MQL5/Indicators/Examples/Heiken_Ashi.ex5
+MQL5/Indicators/Examples/Heiken_Ashi.mq5
+MQL5/Indicators/Examples/Ichimoku.ex5
+MQL5/Indicators/Examples/Ichimoku.mq5
+MQL5/Indicators/Examples/MACD.ex5
+MQL5/Indicators/Examples/MACD.mq5
+MQL5/Indicators/Examples/MarketFacilitationIndex.ex5
+MQL5/Indicators/Examples/MarketFacilitationIndex.mq5
+MQL5/Indicators/Examples/MFI.ex5
+MQL5/Indicators/Examples/MFI.mq5
+MQL5/Indicators/Examples/MI.ex5
+MQL5/Indicators/Examples/MI.mq5
+MQL5/Indicators/Examples/Momentum.ex5
+MQL5/Indicators/Examples/Momentum.mq5
+MQL5/Indicators/Examples/OBV.ex5
+MQL5/Indicators/Examples/OBV.mq5
+MQL5/Indicators/Examples/OsMA.ex5
+MQL5/Indicators/Examples/OsMA.mq5
+MQL5/Indicators/Examples/ParabolicSAR.ex5
+MQL5/Indicators/Examples/ParabolicSAR.mq5
+MQL5/Indicators/Examples/Price_Channel.ex5
+MQL5/Indicators/Examples/Price_Channel.mq5
+MQL5/Indicators/Examples/PVT.ex5
+MQL5/Indicators/Examples/PVT.mq5
+MQL5/Indicators/Examples/ROC.ex5
+MQL5/Indicators/Examples/ROC.mq5
+MQL5/Indicators/Examples/RSI.ex5
+MQL5/Indicators/Examples/RSI.mq5
+MQL5/Indicators/Examples/RVI.ex5
+MQL5/Indicators/Examples/RVI.mq5
+MQL5/Indicators/Examples/StdDev.ex5
+MQL5/Indicators/Examples/StdDev.mq5
+MQL5/Indicators/Examples/Stochastic.ex5
+MQL5/Indicators/Examples/Stochastic.mq5
+MQL5/Indicators/Examples/TEMA.ex5
+MQL5/Indicators/Examples/TEMA.mq5
+MQL5/Indicators/Examples/TRIX.ex5
+MQL5/Indicators/Examples/TRIX.mq5
+MQL5/Indicators/Examples/Ultimate_Oscillator.ex5
+MQL5/Indicators/Examples/Ultimate_Oscillator.mq5
+MQL5/Indicators/Examples/VIDYA.ex5
+MQL5/Indicators/Examples/VIDYA.mq5
+MQL5/Indicators/Examples/Volumes.ex5
+MQL5/Indicators/Examples/Volumes.mq5
+MQL5/Indicators/Examples/VROC.ex5
+MQL5/Indicators/Examples/VROC.mq5
+MQL5/Indicators/Examples/W_AD.ex5
+MQL5/Indicators/Examples/W_AD.mq5
+MQL5/Indicators/Examples/WPR.ex5
+MQL5/Indicators/Examples/WPR.mq5
+MQL5/Indicators/Examples/ZigZag.ex5
+MQL5/Indicators/Examples/ZigZag.mq5
+MQL5/Indicators/Examples/ZigzagColor.ex5
+MQL5/Indicators/Examples/ZigzagColor.mq5
+MQL5/Indicators/Examples/Canvas/FlameChart.ex5
+MQL5/Indicators/Examples/Canvas/FlameChart.mq5
+MQL5/Indicators/Examples/Panels/ChartPanel/ChartPanel.ex5
+MQL5/Indicators/Examples/Panels/ChartPanel/ChartPanel.mq5
+MQL5/Indicators/Examples/Panels/ChartPanel/PanelDialog.mqh
+MQL5/Indicators/Examples/Panels/SimplePanel/PanelDialog.mqh
+MQL5/Indicators/Examples/Panels/SimplePanel/SimplePanel.ex5
+MQL5/Indicators/Examples/Panels/SimplePanel/SimplePanel.mq5
+MQL5/Images/dollar.bmp
+MQL5/Images/euro.bmp
+MQL5/Files/History (FxPro-MT5)/D1/AUDCAD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/AUDCADD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/AUDCHF1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/AUDCHFD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/AUDJPY1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/AUDJPYD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/AUDNZD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/AUDNZDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/AUDUSD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/AUDUSDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/CADCHF60.hst
+MQL5/Files/History (FxPro-MT5)/D1/CADCHF1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/CADCHFD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/CADCHFH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/CHFJPY1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/CHFJPYD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURAUD60.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURAUD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURAUDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURCAD60.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURCAD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURCADD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURCADH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURCHF60.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURCHF1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURCHFD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURCHFH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURGBP1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURGBPD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURJPY60.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURJPY1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURJPYD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURJPYH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURNZD60.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURNZD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURNZDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURNZDH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/EURUSD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/EURUSDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/GBPCHF60.hst
+MQL5/Files/History (FxPro-MT5)/D1/GBPCHF1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/GBPCHFD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/GBPCHFH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/GBPJPY60.hst
+MQL5/Files/History (FxPro-MT5)/D1/GBPJPY1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/GBPJPYD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/GBPJPYH1.csv
+MQL5/Files/History (FxPro-MT5)/D1/GBPUSD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/GBPUSDD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/USDCAD1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/USDCADD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/USDCHF1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/USDCHFD1.csv
+MQL5/Files/History (FxPro-MT5)/D1/USDJPY1440.hst
+MQL5/Files/History (FxPro-MT5)/D1/USDJPYD1.csv
+MQL5/Files/History (FxPro-MT5)/H1/AUDCAD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/AUDCADH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/AUDCHF60.hst
+MQL5/Files/History (FxPro-MT5)/H1/AUDCHFH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/AUDJPY60.hst
+MQL5/Files/History (FxPro-MT5)/H1/AUDJPYH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/AUDNZD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/AUDNZDH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/AUDUSD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/AUDUSDH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/CHFJPY60.hst
+MQL5/Files/History (FxPro-MT5)/H1/CHFJPYH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/EURAUDH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/EURGBP60.hst
+MQL5/Files/History (FxPro-MT5)/H1/EURGBPH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/EURUSD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/EURUSDH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/GBPUSD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/GBPUSDH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/USDCAD60.hst
+MQL5/Files/History (FxPro-MT5)/H1/USDCADH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/USDCHF60.hst
+MQL5/Files/History (FxPro-MT5)/H1/USDCHFH1.csv
+MQL5/Files/History (FxPro-MT5)/H1/USDJPY60.hst
+MQL5/Files/History (FxPro-MT5)/H1/USDJPYH1.csv
+MQL5/Experts/Examples/ChartInChart/ChartInChart.ex5
+MQL5/Experts/Examples/ChartInChart/ChartInChart.mq5
+MQL5/Experts/Examples/Controls/Controls.mq5
+MQL5/Experts/Examples/Controls/ControlsDialog.mqh
+MQL5/Experts/Examples/Correlation Matrix 3D/Correlation Matrix 3D.ex5
+MQL5/Experts/Examples/Correlation Matrix 3D/Correlation Matrix 3D.mq5
+MQL5/Experts/Examples/Correlation Matrix 3D/Correlation Matrix 3D.mqproj
+MQL5/Experts/Examples/MACD/MACD Sample.ex5
+MQL5/Experts/Examples/MACD/MACD Sample.mq5
+MQL5/Experts/Examples/Math 3D/Functions.mqh
+MQL5/Experts/Examples/Math 3D/Math 3D.ex5
+MQL5/Experts/Examples/Math 3D/Math 3D.ico
+MQL5/Experts/Examples/Math 3D/Math 3D.mq5
+MQL5/Experts/Examples/Math 3D/Math 3D.mqproj
+MQL5/Experts/Examples/Math 3D/Sets/Chomolungma.set
+MQL5/Experts/Examples/Math 3D/Sets/ClimberDream.set
+MQL5/Experts/Examples/Math 3D/Sets/DoubleScrew.set
+MQL5/Experts/Examples/Math 3D/Sets/Granite.set
+MQL5/Experts/Examples/Math 3D/Sets/Hedgehog.set
+MQL5/Experts/Examples/Math 3D/Sets/Hill.set
+MQL5/Experts/Examples/Math 3D/Sets/Josephine.set
+MQL5/Experts/Examples/Math 3D/Sets/MultyExtremalScrew.set
+MQL5/Experts/Examples/Math 3D/Sets/Screw.set
+MQL5/Experts/Examples/Math 3D/Sets/Sink.set
+MQL5/Experts/Examples/Math 3D/Sets/Skin.set
+MQL5/Experts/Examples/Math 3D/Sets/Trapfall.set
+MQL5/Experts/Examples/Math 3D Morpher/Functions.mqh
+MQL5/Experts/Examples/Math 3D Morpher/Math 3D Morpher.ex5
+MQL5/Experts/Examples/Math 3D Morpher/Math 3D Morpher.mq5
+MQL5/Experts/Examples/Math 3D Morpher/Math 3D Morpher.mqproj
+MQL5/Experts/Examples/Math 3D Morpher/Textures/checker.bmp
+MQL5/Experts/Examples/Mean Reversion/Mean Reversion.ex5
+MQL5/Experts/Examples/Mean Reversion/Mean Reversion.ico
+MQL5/Experts/Examples/Mean Reversion/Mean Reversion.mq5
+MQL5/Experts/Examples/Mean Reversion/Mean Reversion.mqproj
+MQL5/Experts/Examples/Mean Reversion/Sets/AUDUSD.set
+MQL5/Experts/Examples/Mean Reversion/Sets/EURJPY.set
+MQL5/Experts/Examples/Mean Reversion/Sets/EURUSD.set
+MQL5/Experts/Examples/Mean Reversion/Sets/GBPCHF.set
+MQL5/Experts/Examples/Mean Reversion/Sets/GBPJPY.set
+MQL5/Experts/Examples/Mean Reversion/Sets/GBPUSD.set
+MQL5/Experts/Examples/Mean Reversion/Sets/USDCAD.set
+MQL5/Experts/Examples/Mean Reversion/Sets/USDCHF.set
+MQL5/Experts/Examples/Mean Reversion/Sets/USDJPY.set
+MQL5/Experts/Examples/Moving Average/Moving Average.ex5
+MQL5/Experts/Examples/Moving Average/Moving Average.mq5
+MQL5/Experts/Advisors/ExpertMACD.ex5
+MQL5/Experts/Advisors/ExpertMACD.mq5
+MQL5/Experts/Advisors/ExpertMAMA.ex5
+MQL5/Experts/Advisors/ExpertMAMA.mq5
+MQL5/Experts/Advisors/ExpertMAPSAR.ex5
+MQL5/Experts/Advisors/ExpertMAPSAR.mq5
+MQL5/Experts/Advisors/ExpertMAPSARSizeOptimized.ex5
+MQL5/Experts/Advisors/ExpertMAPSARSizeOptimized.mq5
+MQL5/Include/Arrays/Array.mqh
+MQL5/Include/Arrays/ArrayChar.mqh
+MQL5/Include/Arrays/ArrayDouble.mqh
+MQL5/Include/Arrays/ArrayFloat.mqh
+MQL5/Include/Arrays/ArrayInt.mqh
+MQL5/Include/Arrays/ArrayLong.mqh
+MQL5/Include/Arrays/ArrayObj.mqh
+MQL5/Include/Arrays/ArrayShort.mqh
+MQL5/Include/Arrays/ArrayString.mqh
+MQL5/Include/Arrays/List.mqh
+MQL5/Include/Arrays/Tree.mqh
+MQL5/Include/Arrays/TreeNode.mqh
+MQL5/Include/Canvas/Canvas.mqh
+MQL5/Include/Canvas/Canvas3D.mqh
+MQL5/Include/Canvas/FlameCanvas.mqh
+MQL5/Include/Canvas/Charts/ChartCanvas.mqh
+MQL5/Include/Canvas/Charts/HistogramChart.mqh
+MQL5/Include/Canvas/Charts/LineChart.mqh
+MQL5/Include/Canvas/Charts/PieChart.mqh
+MQL5/Include/Canvas/DX/DXBox.mqh
+MQL5/Include/Canvas/DX/DXBuffers.mqh
+MQL5/Include/Canvas/DX/DXData.mqh
+MQL5/Include/Canvas/DX/DXDispatcher.mqh
+MQL5/Include/Canvas/DX/DXHandle.mqh
+MQL5/Include/Canvas/DX/DXInput.mqh
+MQL5/Include/Canvas/DX/DXMath.mqh
+MQL5/Include/Canvas/DX/DXMesh.mqh
+MQL5/Include/Canvas/DX/DXObject.mqh
+MQL5/Include/Canvas/DX/DXObjectBase.mqh
+MQL5/Include/Canvas/DX/DXShader.mqh
+MQL5/Include/Canvas/DX/DXSurface.mqh
+MQL5/Include/Canvas/DX/DXTexture.mqh
+MQL5/Include/Canvas/DX/DXUtils.mqh
+MQL5/Include/Canvas/DX/Shaders/DefaultShaderPixel.hlsl
+MQL5/Include/Canvas/DX/Shaders/DefaultShaderVertex.hlsl
+MQL5/Include/ChartObjects/ChartObject.mqh
+MQL5/Include/ChartObjects/ChartObjectPanel.mqh
+MQL5/Include/ChartObjects/ChartObjectsArrows.mqh
+MQL5/Include/ChartObjects/ChartObjectsBmpControls.mqh
+MQL5/Include/ChartObjects/ChartObjectsChannels.mqh
+MQL5/Include/ChartObjects/ChartObjectsElliott.mqh
+MQL5/Include/ChartObjects/ChartObjectsFibo.mqh
+MQL5/Include/ChartObjects/ChartObjectsGann.mqh
+MQL5/Include/ChartObjects/ChartObjectsLines.mqh
+MQL5/Include/ChartObjects/ChartObjectsShapes.mqh
+MQL5/Include/ChartObjects/ChartObjectsTxtControls.mqh
+MQL5/Include/ChartObjects/ChartObjectSubChart.mqh
+MQL5/Include/Charts/Chart.mqh
+MQL5/Include/Controls/BmpButton.mqh
+MQL5/Include/Controls/Button.mqh
+MQL5/Include/Controls/CheckBox.mqh
+MQL5/Include/Controls/CheckGroup.mqh
+MQL5/Include/Controls/ComboBox.mqh
+MQL5/Include/Controls/DateDropList.mqh
+MQL5/Include/Controls/DatePicker.mqh
+MQL5/Include/Controls/Defines.mqh
+MQL5/Include/Controls/Dialog.mqh
+MQL5/Include/Controls/Edit.mqh
+MQL5/Include/Controls/Label.mqh
+MQL5/Include/Controls/ListView.mqh
+MQL5/Include/Controls/Panel.mqh
+MQL5/Include/Controls/Picture.mqh
+MQL5/Include/Controls/RadioButton.mqh
+MQL5/Include/Controls/RadioGroup.mqh
+MQL5/Include/Controls/Rect.mqh
+MQL5/Include/Controls/Scrolls.mqh
+MQL5/Include/Controls/SpinEdit.mqh
+MQL5/Include/Controls/Wnd.mqh
+MQL5/Include/Controls/WndClient.mqh
+MQL5/Include/Controls/WndContainer.mqh
+MQL5/Include/Controls/WndObj.mqh
+MQL5/Include/Controls/res/CheckBoxOff.bmp
+MQL5/Include/Controls/res/CheckBoxOn.bmp
+MQL5/Include/Controls/res/Close.bmp
+MQL5/Include/Controls/res/DateDropOff.bmp
+MQL5/Include/Controls/res/DateDropOn.bmp
+MQL5/Include/Controls/res/Down.bmp
+MQL5/Include/Controls/res/DownTransp.bmp
+MQL5/Include/Controls/res/DropOff.bmp
+MQL5/Include/Controls/res/DropOn.bmp
+MQL5/Include/Controls/res/Left.bmp
+MQL5/Include/Controls/res/LeftTransp.bmp
+MQL5/Include/Controls/res/RadioButtonOff.bmp
+MQL5/Include/Controls/res/RadioButtonOn.bmp
+MQL5/Include/Controls/res/Restore.bmp
+MQL5/Include/Controls/res/Right.bmp
+MQL5/Include/Controls/res/RightTransp.bmp
+MQL5/Include/Controls/res/SpinDec.bmp
+MQL5/Include/Controls/res/SpinInc.bmp
+MQL5/Include/Controls/res/ThumbHor.bmp
+MQL5/Include/Controls/res/ThumbVert.bmp
+MQL5/Include/Controls/res/Turn.bmp
+MQL5/Include/Controls/res/Up.bmp
+MQL5/Include/Controls/res/UpTransp.bmp
+MQL5/Include/Expert/Expert.mqh
+MQL5/Include/Expert/ExpertBase.mqh
+MQL5/Include/Expert/ExpertMoney.mqh
+MQL5/Include/Expert/ExpertSignal.mqh
+MQL5/Include/Expert/ExpertTrade.mqh
+MQL5/Include/Expert/ExpertTrailing.mqh
+MQL5/Include/Expert/Money/MoneyFixedLot.mqh
+MQL5/Include/Expert/Money/MoneyFixedMargin.mqh
+MQL5/Include/Expert/Money/MoneyFixedRisk.mqh
+MQL5/Include/Expert/Money/MoneyNone.mqh
+MQL5/Include/Expert/Money/MoneySizeOptimized.mqh
+MQL5/Include/Expert/Signal/SignalAC.mqh
+MQL5/Include/Expert/Signal/SignalAMA.mqh
+MQL5/Include/Expert/Signal/SignalAO.mqh
+MQL5/Include/Expert/Signal/SignalBearsPower.mqh
+MQL5/Include/Expert/Signal/SignalBullsPower.mqh
+MQL5/Include/Expert/Signal/SignalCCI.mqh
+MQL5/Include/Expert/Signal/SignalDEMA.mqh
+MQL5/Include/Expert/Signal/SignalDeMarker.mqh
+MQL5/Include/Expert/Signal/SignalEnvelopes.mqh
+MQL5/Include/Expert/Signal/SignalFrAMA.mqh
+MQL5/Include/Expert/Signal/SignalITF.mqh
+MQL5/Include/Expert/Signal/SignalMA.mqh
+MQL5/Include/Expert/Signal/SignalMACD.mqh
+MQL5/Include/Expert/Signal/SignalRSI.mqh
+MQL5/Include/Expert/Signal/SignalRVI.mqh
+MQL5/Include/Expert/Signal/SignalSAR.mqh
+MQL5/Include/Expert/Signal/SignalStoch.mqh
+MQL5/Include/Expert/Signal/SignalTEMA.mqh
+MQL5/Include/Expert/Signal/SignalTRIX.mqh
+MQL5/Include/Expert/Signal/SignalWPR.mqh
+MQL5/Include/Expert/Trailing/TrailingFixedPips.mqh
+MQL5/Include/Expert/Trailing/TrailingMA.mqh
+MQL5/Include/Expert/Trailing/TrailingNone.mqh
+MQL5/Include/Expert/Trailing/TrailingParabolicSAR.mqh
+MQL5/Include/Files/File.mqh
+MQL5/Include/Files/FileBin.mqh
+MQL5/Include/Files/FileBMP.mqh
+MQL5/Include/Files/FilePipe.mqh
+MQL5/Include/Files/FileTxt.mqh
+MQL5/Include/Generic/ArrayList.mqh
+MQL5/Include/Generic/HashMap.mqh
+MQL5/Include/Generic/HashSet.mqh
+MQL5/Include/Generic/LinkedList.mqh
+MQL5/Include/Generic/Queue.mqh
+MQL5/Include/Generic/RedBlackTree.mqh
+MQL5/Include/Generic/SortedMap.mqh
+MQL5/Include/Generic/SortedSet.mqh
+MQL5/Include/Generic/Stack.mqh
+MQL5/Include/Generic/Interfaces/ICollection.mqh
+MQL5/Include/Generic/Interfaces/IComparable.mqh
+MQL5/Include/Generic/Interfaces/IComparer.mqh
+MQL5/Include/Generic/Interfaces/IEqualityComparable.mqh
+MQL5/Include/Generic/Interfaces/IEqualityComparer.mqh
+MQL5/Include/Generic/Interfaces/IList.mqh
+MQL5/Include/Generic/Interfaces/IMap.mqh
+MQL5/Include/Generic/Interfaces/ISet.mqh
+MQL5/Include/Generic/Internal/ArrayFunction.mqh
+MQL5/Include/Generic/Internal/CompareFunction.mqh
+MQL5/Include/Generic/Internal/DefaultComparer.mqh
+MQL5/Include/Generic/Internal/DefaultEqualityComparer.mqh
+MQL5/Include/Generic/Internal/EqualFunction.mqh
+MQL5/Include/Generic/Internal/HashFunction.mqh
+MQL5/Include/Generic/Internal/Introsort.mqh
+MQL5/Include/Generic/Internal/PrimeGenerator.mqh
+MQL5/Include/Graphics/Axis.mqh
+MQL5/Include/Graphics/ColorGenerator.mqh
+MQL5/Include/Graphics/Curve.mqh
+MQL5/Include/Graphics/Graphic.mqh
+MQL5/Include/Indicators/BillWilliams.mqh
+MQL5/Include/Indicators/Custom.mqh
+MQL5/Include/Indicators/Indicator.mqh
+MQL5/Include/Indicators/Indicators.mqh
+MQL5/Include/Indicators/Oscilators.mqh
+MQL5/Include/Indicators/Series.mqh
+MQL5/Include/Indicators/TimeSeries.mqh
+MQL5/Include/Indicators/Trend.mqh
+MQL5/Include/Indicators/Volumes.mqh
+MQL5/Include/Math/Alglib/alglib.mqh
+MQL5/Include/Math/Alglib/alglibinternal.mqh
+MQL5/Include/Math/Alglib/alglibmisc.mqh
+MQL5/Include/Math/Alglib/ap.mqh
+MQL5/Include/Math/Alglib/arrayresize.mqh
+MQL5/Include/Math/Alglib/bitconvert.mqh
+MQL5/Include/Math/Alglib/complex.mqh
+MQL5/Include/Math/Alglib/dataanalysis.mqh
+MQL5/Include/Math/Alglib/delegatefunctions.mqh
+MQL5/Include/Math/Alglib/diffequations.mqh
+MQL5/Include/Math/Alglib/fasttransforms.mqh
+MQL5/Include/Math/Alglib/integration.mqh
+MQL5/Include/Math/Alglib/interpolation.mqh
+MQL5/Include/Math/Alglib/linalg.mqh
+MQL5/Include/Math/Alglib/matrix.mqh
+MQL5/Include/Math/Alglib/optimization.mqh
+MQL5/Include/Math/Alglib/solvers.mqh
+MQL5/Include/Math/Alglib/specialfunctions.mqh
+MQL5/Include/Math/Alglib/statistics.mqh
+MQL5/Include/Math/Fuzzy/dictionary.mqh
+MQL5/Include/Math/Fuzzy/fuzzyrule.mqh
+MQL5/Include/Math/Fuzzy/fuzzyterm.mqh
+MQL5/Include/Math/Fuzzy/fuzzyvariable.mqh
+MQL5/Include/Math/Fuzzy/genericfuzzysystem.mqh
+MQL5/Include/Math/Fuzzy/helper.mqh
+MQL5/Include/Math/Fuzzy/inferencemethod.mqh
+MQL5/Include/Math/Fuzzy/mamdanifuzzysystem.mqh
+MQL5/Include/Math/Fuzzy/membershipfunction.mqh
+MQL5/Include/Math/Fuzzy/ruleparser.mqh
+MQL5/Include/Math/Fuzzy/sugenofuzzysystem.mqh
+MQL5/Include/Math/Fuzzy/sugenovariable.mqh
+MQL5/Include/Math/Stat/Beta.mqh
+MQL5/Include/Math/Stat/Binomial.mqh
+MQL5/Include/Math/Stat/Cauchy.mqh
+MQL5/Include/Math/Stat/ChiSquare.mqh
+MQL5/Include/Math/Stat/Exponential.mqh
+MQL5/Include/Math/Stat/F.mqh
+MQL5/Include/Math/Stat/Gamma.mqh
+MQL5/Include/Math/Stat/Geometric.mqh
+MQL5/Include/Math/Stat/Hypergeometric.mqh
+MQL5/Include/Math/Stat/Logistic.mqh
+MQL5/Include/Math/Stat/Lognormal.mqh
+MQL5/Include/Math/Stat/Math.mqh
+MQL5/Include/Math/Stat/NegativeBinomial.mqh
+MQL5/Include/Math/Stat/NoncentralBeta.mqh
+MQL5/Include/Math/Stat/NoncentralChiSquare.mqh
+MQL5/Include/Math/Stat/NoncentralF.mqh
+MQL5/Include/Math/Stat/NoncentralT.mqh
+MQL5/Include/Math/Stat/Normal.mqh
+MQL5/Include/Math/Stat/Poisson.mqh
+MQL5/Include/Math/Stat/Stat.mqh
+MQL5/Include/Math/Stat/T.mqh
+MQL5/Include/Math/Stat/Uniform.mqh
+MQL5/Include/Math/Stat/Weibull.mqh
+MQL5/Include/OpenCL/OpenCL.mqh
+MQL5/Include/Strings/String.mqh
+MQL5/Include/Tools/DateTime.mqh
+MQL5/Include/Trade/AccountInfo.mqh
+MQL5/Include/Trade/DealInfo.mqh
+MQL5/Include/Trade/HistoryOrderInfo.mqh
+MQL5/Include/Trade/OrderInfo.mqh
+MQL5/Include/Trade/PositionInfo.mqh
+MQL5/Include/Trade/SymbolInfo.mqh
+MQL5/Include/Trade/TerminalInfo.mqh
+MQL5/Include/Trade/Trade.mqh
+MQL5/Include/WinAPI/errhandlingapi.mqh
+MQL5/Include/WinAPI/fileapi.mqh
+MQL5/Include/WinAPI/handleapi.mqh
+MQL5/Include/WinAPI/libloaderapi.mqh
+MQL5/Include/WinAPI/memoryapi.mqh
+MQL5/Include/WinAPI/processenv.mqh
+MQL5/Include/WinAPI/processthreadsapi.mqh
+MQL5/Include/WinAPI/securitybaseapi.mqh
+MQL5/Include/WinAPI/sysinfoapi.mqh
+MQL5/Include/WinAPI/winapi.mqh
+MQL5/Include/WinAPI/winbase.mqh
+MQL5/Include/WinAPI/windef.mqh
+MQL5/Include/WinAPI/wingdi.mqh
+MQL5/Include/WinAPI/winnt.mqh
+MQL5/Include/WinAPI/winreg.mqh
+MQL5/Include/WinAPI/winuser.mqh
